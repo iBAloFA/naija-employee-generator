@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Chukwuemeka Okonkwo",
+    "email": "chukwuemeka.okonkwo@example.com",
+    "phone": "0803 123 4567",
+    "department": "IT",
+    "position": "Senior",
+    "salary_ngn": 2850000.0,
+    "city": "Lagos",
+    "hire_date": "2022-08-15",
+    "is_active": true
+  }
+]
